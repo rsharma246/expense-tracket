@@ -44,7 +44,7 @@ PAYMENT_METHODS = [
     "Bank Transfer",
 ]
 
-OLLAMA_MODEL = "llama3.1"
+OLLAMA_MODEL = "llama3.2"
 
 
 # ============================================================
